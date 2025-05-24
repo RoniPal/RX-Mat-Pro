@@ -1,7 +1,19 @@
 # 📦 Smart Yoga Mat App – Submission Package
 A mobile application that simulates the connection, control, update, and analytics features for a Smart Yoga Mat using React Native and Firebase Firestore. It supports visual UI simulation of Bluetooth/Wi-Fi connectivity, OTA updates, session controls, and product showcase.
 
+## 📱 Features
+```
+- 🔗 **Connect your Mat** via Bluetooth or Wi-Fi (simulated UI)
+- 🎛 **Control Heating & Vibrations** (Warm-Up / Relaxation Mode)
+- 📦 **Explore Products** and new collections (from Firebase Firestore)
+- 📊 **Track Usage Analytics** and past sessions
+- 🚀 **Check for OTA Updates** with version control
+- 🧪 Join the **Beta Program**
+- ⚠️ **Design-Only Notice**: Some components are mockups for demo
+```
+
 ## 🧰 Technologies Used
+
 | Layer      | Tech                                  |
 |------------|----------------------------------------|
 | Frontend   | React Native CLI                       |
@@ -10,7 +22,9 @@ A mobile application that simulates the connection, control, update, and analyti
 | Backend    | Firebase Firestore                     |
 | Styling    | Custom `StyleSheet` (no Tailwind)      |
 
+
 ## 🚀 Setup Instructions
+
 ### ✅ Prerequisites
 - Node.js ≥ 16.x.x
 - npm or yarn
