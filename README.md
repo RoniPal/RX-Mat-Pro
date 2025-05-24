@@ -73,3 +73,7 @@ npx react-native run-android
 ```bash
 npx react-native run-ios
 ```
+
+# Download Release APK
+
+- Link : ``` https://drive.google.com/drive/folders/15NHCfhJOMtaZ6vaCL9RHyyuBXkVJT3LS?usp=drive_link ```
