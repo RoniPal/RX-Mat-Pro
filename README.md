@@ -13,7 +13,7 @@ A mobile application that simulates the connection, control, update, and analyti
 ```
 
 ## 🧰 Technologies Used
-
+```
 | Layer      | Tech                                  |
 |------------|----------------------------------------|
 | Frontend   | React Native CLI                       |
@@ -21,16 +21,18 @@ A mobile application that simulates the connection, control, update, and analyti
 | Navigation| React Navigation                        |
 | Backend    | Firebase Firestore                     |
 | Styling    | Custom `StyleSheet` (no Tailwind)      |
-
+```
 
 ## 🚀 Setup Instructions
 
 ### ✅ Prerequisites
+```
 - Node.js ≥ 16.x.x
 - npm or yarn
 - Android Studio / Xcode (for Android/iOS emulators)
 - Java JDK (if running on Android)
 - Firebase project with Firestore enabled
+```
 
 ### 🔧 Steps to Run the Project
 1. Clone the Repository
