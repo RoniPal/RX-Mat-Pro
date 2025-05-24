@@ -53,7 +53,7 @@ npx react-native link
 4. Firebase Configuration
 1. Create a Firebase project.
 2. Add an Android/iOS app.
-3. Download google-services.json (Android) or GoogleService-Info.plist (iOS).
+3. Download [google-services.json] (Android) or [GoogleService-Info.plist] (iOS).
 4.Place them inside:
 ```bash
 android/app/ (for Android)
