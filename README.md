@@ -1,4 +1,4 @@
-# 📦 Smart Yoga Mat App – Submission Package
+# 📦 RX Mat Pro App – Submission Package
 A mobile application that simulates the connection, control, update, and analytics features for a Smart Yoga Mat using React Native and Firebase Firestore. It supports visual UI simulation of Bluetooth/Wi-Fi connectivity, OTA updates, session controls, and product showcase.
 
 ## 📱 Features
